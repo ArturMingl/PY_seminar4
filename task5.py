@@ -23,3 +23,4 @@ sum_poly = list_of_poly_1 + list_of_poly_2
 with open('sum_poly.txt', 'w', encoding='utf-8') as file:
     file.write(f'{list_of_poly_1} + {list_of_poly_2}')
 
+
